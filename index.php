@@ -27,7 +27,7 @@
                             <a class="nav-link" href="index.php"><i class="bi bi-house-door-fill"></i>Inicio</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#"><i class="bi bi-journal"></i>Catalogo</a>
+                            <a class="nav-link" href="catalogo.php"><i class="bi bi-journal"></i>Catalogo</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="#"><i class="bi bi-cloud-drizzle"></i>Clima</a>
