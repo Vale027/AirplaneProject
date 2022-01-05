@@ -9,10 +9,11 @@
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/normalize.css">
     <!-- JavaScript Bundle with Popper -->
+    <!-- hola xddd -->
     <title>Aerolinea Kerv</title>
 </head>
 <body>
-    <?php
+    <?phps
        require('conexion.php');
     ?>
     <div class="content">
