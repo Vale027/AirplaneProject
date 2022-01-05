@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/normalize.css">
     <!-- JavaScript Bundle with Popper -->
-    <title>Aerolinea Ker</title>
+    <title>Aerolinea Kerv</title>
 </head>
 <body>
     <?php
